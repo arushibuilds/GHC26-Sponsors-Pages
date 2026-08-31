@@ -1,10 +1,27 @@
-# GHC26 Sponsors Career Pages
+# Unofficial GHC26 Sponsor Career Directory
 
-This is a repository of the listed partners and their career pages based on the [Grace Hopper Celebration 2026](https://ghc.anitab.org/partners) website. 
+This independently compiled directory provides links to career pages for
+organizations listed in the publicly available
+[Grace Hopper Celebration 2026 Partner Directory](https://ghc.anitab.org/partners).
 
-As a disclaimer, this repository is not affiliated with or sponsored by AnitaB.org. Additionally, we are not affiliated with any of the companies listed below.
+## Disclaimer
 
-We created this resource for attendees to have an easier time to explore opportunities beforehand.
+This is an unofficial community resource. It is not affiliated with, endorsed
+by, sponsored by, or maintained by AnitaB.org, the Grace Hopper Celebration,
+or any organization listed below.
+
+Organization names and trademarks belong to their respective owners and are
+used solely for identification. No affiliation or endorsement is implied.
+
+This resource was created to help attendees explore publicly available career
+opportunities. Links were last verified on August 30, 2026. Please open an
+issue to request a correction or removal.
+
+## License
+
+The CC0 license applies only to this repository's original text, categorization,
+and compilation. It does not grant rights to third-party names, trademarks,
+websites, or other third-party content.
 
 ## Finance, Insurance & Fintech
 
