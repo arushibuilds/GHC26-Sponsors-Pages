@@ -19,9 +19,9 @@ issue to request a correction or removal.
 
 ## License
 
-The CC0 license applies only to this repository's original text, categorization,
-and compilation. It does not grant rights to third-party names, trademarks,
-websites, or other third-party content.
+The CC0 license applies only to content created by this repository's
+maintainer. Company names and trademarks remain the property of their
+respective owners.
 
 ## Finance, Insurance & Fintech
 
