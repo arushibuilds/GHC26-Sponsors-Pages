@@ -4,6 +4,8 @@ This is a repository of the listed partners and their career pages based on the 
 
 As a disclaimer, this repository is not affiliated with or sponsored by AnitaB.org. Additionally, we are not affiliated with any of the companies listed below.
 
+We created this resource for attendees to have an easier time to explore opportunities beforehand.
+
 ## Finance, Insurance & Fintech
 
 | Company | Career Page |
