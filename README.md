@@ -1,4 +1,4 @@
-# Unofficial GHC26 Sponsor Career Directory
+# Unofficial GHC26 Sponsors Career Pages
 
 This independently compiled directory provides links to career pages for
 organizations listed in the publicly available
@@ -22,6 +22,8 @@ issue to request a correction or removal.
 The CC0 license applies only to content created by this repository's
 maintainer. Company names and trademarks remain the property of their
 respective owners.
+
+---
 
 ## Finance, Insurance & Fintech
 
