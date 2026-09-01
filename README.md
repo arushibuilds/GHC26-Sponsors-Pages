@@ -4,7 +4,7 @@ This independently compiled directory provides links to career pages for
 organizations listed in the publicly available
 [Grace Hopper Celebration 2026 Partner Directory](https://ghc.anitab.org/partners).
 
-This list is compiled by Monica Para and Arushi Malhotra. 
+This list is compiled by Arushi and Monica
 
 ## Disclaimer
 
@@ -16,7 +16,9 @@ Organization names and trademarks belong to their respective owners and are
 used solely for identification. No affiliation or endorsement is implied.
 
 This resource was created to help attendees explore publicly available career
-opportunities. Links were last verified on August 30, 2026. Please open an
+opportunities. 
+
+Links were last verified on September 1, 2026. Please open an
 issue to request a correction or removal.
 
 ## License
