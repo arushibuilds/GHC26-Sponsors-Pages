@@ -4,6 +4,8 @@ This independently compiled directory provides links to career pages for
 organizations listed in the publicly available
 [Grace Hopper Celebration 2026 Partner Directory](https://ghc.anitab.org/partners).
 
+This list is compiled by Monica Para and Arushi Malhotra. 
+
 ## Disclaimer
 
 This is an unofficial community resource. It is not affiliated with, endorsed
@@ -41,7 +43,12 @@ respective owners.
 | Apollo Global Management | [https://www.apollo.com/careers](https://www.apollo.com/careers) |
 | Citadel | [https://www.citadel.com/careers/](https://www.citadel.com/careers/) |
 | Citadel Securities LLC | [https://www.citadelsecurities.com/careers/](https://www.citadelsecurities.com/careers/) |
-| Capital One | [https://www.capitalonecareers.com/](https://www.capitalonecareers.com/)
+| Capital One | [https://www.capitalonecareers.com/](https://www.capitalonecareers.com/) |
+| Morgan Stanley | [https://www.morganstanley.com/careers/career-opportunities-search](https://www.morganstanley.com/careers/career-opportunities-search) |
+| DTCC | [https://www.dtcc.com/careers](https://www.dtcc.com/careers) |
+| Jane Street | [https://www.janestreet.com/join-jane-street/](https://www.janestreet.com/join-jane-street/) |
+| Vanguard | [https://www.vanguardjobs.com/](https://www.vanguardjobs.com/) |
+| Peak6 | [https://peak6.com/careers/](https://peak6.com/careers/) |
 
 ## Technology, Software & Computing
 
@@ -55,6 +62,9 @@ respective owners.
 | San Francisco Compute | [https://jobs.ashbyhq.com/sfcompute](https://jobs.ashbyhq.com/sfcompute) |
 | Snap Inc. | [https://careers.snap.com/](https://careers.snap.com/) |
 | Veeam | [https://careers.veeam.com/](https://careers.veeam.com/) |
+| Apple | [https://jobs.apple.com/](https://jobs.apple.com/) |
+| Cloudflare | [https://www.cloudflare.com/careers/jobs/](https://www.cloudflare.com/careers/jobs/) |
+| Microsoft | [https://careers.microsoft.com/](https://careers.microsoft.com/) |
 
 ## Digital Platforms, Media & Gaming
 
@@ -65,6 +75,7 @@ respective owners.
 | Disney | [https://www.disneycareers.com/en](https://www.disneycareers.com/en) |
 | Hudl | [https://www.hudl.com/jobs](https://www.hudl.com/jobs) |
 | Nintendo of America | [https://careers.nintendo.com/](https://careers.nintendo.com/) |
+| Meta | [https://www.metacareers.com/](https://www.metacareers.com/) |
 
 ## Consulting, Professional Services & Talent
 
@@ -81,13 +92,14 @@ respective owners.
 |---|---|
 | Northwestern Medicine | [https://www.nm.org/about-us/careers](https://www.nm.org/about-us/careers) |
 | Tandem Diabetes Care | [https://www.tandemdiabetes.com/about-us/careers](https://www.tandemdiabetes.com/about-us/careers) |
+| CVS Health | [https://jobs.cvshealth.com/](https://jobs.cvshealth.com/) |
 
 ## Industrial Distribution, Retail & Food Service
 
 | Company | Career Page |
 |---|---|
 | Grainger | [https://jobs.grainger.com/](https://jobs.grainger.com/) |
-| McDonald’s | [https://careers.mcdonalds.com/corporate-careers](https://careers.mcdonalds.com/corporate-careers) |
+| McDonald's | [https://careers.mcdonalds.com/corporate-careers](https://careers.mcdonalds.com/corporate-careers) |
 
 ## Higher Education
 
