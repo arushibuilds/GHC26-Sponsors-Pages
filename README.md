@@ -41,6 +41,7 @@ respective owners.
 | Apollo Global Management | [https://www.apollo.com/careers](https://www.apollo.com/careers) |
 | Citadel | [https://www.citadel.com/careers/](https://www.citadel.com/careers/) |
 | Citadel Securities LLC | [https://www.citadelsecurities.com/careers/](https://www.citadelsecurities.com/careers/) |
+| Capital One | [https://www.capitalonecareers.com/](https://www.capitalonecareers.com/)
 
 ## Technology, Software & Computing
 
